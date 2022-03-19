@@ -1,0 +1,19 @@
+* {
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.with-border {
+  border-style: dotted;
+  border-color: blue;
+}
+
+.with-background {
+  background-color: blue;
+}
+
+.with-color {
+  color: blue;
+}
+/*# sourceMappingURL=page4.css.map */

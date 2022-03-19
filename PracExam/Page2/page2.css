@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 25;
+}
+
+.yellowoutline {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #dfdfab;
+  font-weight: bolder;
+}
+
+.blackoutline {
+  border-style: solid;
+  border-width: 1px;
+  border-color: green;
+  font-weight: bolder;
+}
+
+.greenoutline {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  font-weight: bolder;
+}
+
+.thickgreen {
+  margin: 5px;
+  border-style: dashed;
+  border-width: thick;
+  border-color: green;
+}
+
+.thinblue {
+  margin: 15px;
+  margin-left: 10px;
+  border-style: dotted;
+  border-width: thin;
+  border-color: darkblue;
+}
+
+.grayinset {
+  border-style: inset;
+  border-width: 20px;
+  border-color: gray;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.yellowsolid {
+  margin: 8px;
+  margin-left: 5px;
+  margin-bottom: 30%;
+  border-style: solid;
+  border-width: 10px;
+  border-color: yellow;
+  font-weight: bolder;
+  font-size: 50px;
+}
+/*# sourceMappingURL=page2.css.map */
